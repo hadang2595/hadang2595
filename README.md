@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hadang2595
+- 👋 Hi, I’m Ha Dang
 - 👀 I’m interested in Data Engineering and Machine Learning
 - 🌱 I’m currently learning Python, Java, SQL
 - 💞️ I’m looking to collaborate on Data Science projects
